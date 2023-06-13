@@ -8,6 +8,9 @@ Here is our repository for Bangkit 2023 Capstone project - Cloud Computing
 Relaverse API is an application that serves as the back-end of the system, designed using Node.js and Express for API creation and using Bcrypt for user authentication security. In order to verify user access, we utilize JWT (JSON Web Token) to provide a secure and efficient method. Another important part of the application is TensorFlow.js, which enables the execution of machine learning and predictive models directly in a JavaScript environment. In addition, we use Cloud Storage Bucket to store images integrated with our Cloud SQL database, ensuring effective and flexible data management. The entire application is hosted on Google App Engine, which ensures optimal scalability, reliability and speed for our high-performance applications.
 <br>
 
+## Cloud Architecture Relaverse
+![Cloud Architecture Relaverse](https://storage.googleapis.com/relaverse/CC-Diagram.png)
+
 ## Cloud Development Timeline
 |  Task  |           Week 1             |            Week 2             |            Week 3             |           Week 4          |
 | :----: | :--------------------------: | :---------------------------: | :---------------------------: |:------------------------: |
